@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/azur-games-test/static/css/main.9839344a.chunk.css",
+    "main.js": "/azur-games-test/static/js/main.a76ca943.chunk.js",
+    "main.js.map": "/azur-games-test/static/js/main.a76ca943.chunk.js.map",
+    "runtime-main.js": "/azur-games-test/static/js/runtime-main.84d9e0b3.js",
+    "runtime-main.js.map": "/azur-games-test/static/js/runtime-main.84d9e0b3.js.map",
+    "static/css/2.e6c1e8c5.chunk.css": "/azur-games-test/static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.6a1d24c7.chunk.js": "/azur-games-test/static/js/2.6a1d24c7.chunk.js",
+    "static/js/2.6a1d24c7.chunk.js.map": "/azur-games-test/static/js/2.6a1d24c7.chunk.js.map",
+    "index.html": "/azur-games-test/index.html",
+    "static/css/2.e6c1e8c5.chunk.css.map": "/azur-games-test/static/css/2.e6c1e8c5.chunk.css.map",
+    "static/css/main.9839344a.chunk.css.map": "/azur-games-test/static/css/main.9839344a.chunk.css.map",
+    "static/js/2.6a1d24c7.chunk.js.LICENSE.txt": "/azur-games-test/static/js/2.6a1d24c7.chunk.js.LICENSE.txt",
+    "static/media/Arrow.780d3280.svg": "/azur-games-test/static/media/Arrow.780d3280.svg",
+    "static/media/github.4d3b3418.svg": "/azur-games-test/static/media/github.4d3b3418.svg",
+    "static/media/logo.a5974bc8.png": "/azur-games-test/static/media/logo.a5974bc8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d9e0b3.js",
+    "static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.6a1d24c7.chunk.js",
+    "static/css/main.9839344a.chunk.css",
+    "static/js/main.a76ca943.chunk.js"
+  ]
+}
