@@ -1,0 +1,38 @@
+.container {
+	padding-top: 60px;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	border-left: 2px solid #1256fb;
+	padding-left: 20px;
+}
+
+.infoText {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	margin-top: 0;
+	margin-bottom: 15px;
+	color: #333;
+}
+.infoText:last-child {
+	margin-bottom: 0;
+}
+
+.infoBold {
+	font-weight: bold;
+}
+
+.textarea {
+	width: 40%;
+	min-height: 70px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px;
+	margin-bottom: 15px;
+	border: 1px solid #eee;
+	outline-color: #1256fb;
+	color: #333;
+}

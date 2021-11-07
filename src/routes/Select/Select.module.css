@@ -1,0 +1,16 @@
+.wrapper {
+	padding-top: 100px;
+}
+.header {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: #1256fb;
+	margin-bottom: 80px;
+}
+.buttonsWrapper {
+	padding: 0 400px;
+	display: flex;
+	justify-content: space-between;
+}

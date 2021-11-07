@@ -1,0 +1,21 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	border-top: 1px solid #eee;
+}
+
+.wrapper:last-child {
+	border-bottom: 1px solid #eee;
+}
+
+.rowText {
+	padding: 20px;
+	color: #333;
+	cursor: pointer;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.rowText:hover {
+	background: #eee;
+}

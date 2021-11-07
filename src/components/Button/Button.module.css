@@ -1,0 +1,27 @@
+.btn {
+	padding: 40px 70px;
+	border-radius: 50px;
+	border: none;
+	background: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #eee;
+	font-weight: 400;
+	font-size: 22px;
+	cursor: pointer;
+}
+.red {
+	background: rgb(207, 58, 58);
+	background: linear-gradient(
+		90deg,
+		rgba(207, 58, 58, 1) 0%,
+		rgba(232, 41, 78, 1) 100%
+	);
+}
+.blue {
+	background: rgb(41, 14, 232);
+	background: linear-gradient(
+		90deg,
+		rgba(41, 14, 232, 1) 0%,
+		rgba(13, 136, 252, 1) 100%
+	);
+}

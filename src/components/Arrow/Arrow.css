@@ -1,0 +1,9 @@
+.arrow {
+	width: 16px;
+	height: 16px;
+	transition: 0.5s;
+}
+.arrow-sort {
+	transform: rotate(-180deg);
+	transition: 1s;
+}

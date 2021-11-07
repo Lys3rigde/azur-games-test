@@ -1,0 +1,19 @@
+.pagination-wrapper {
+	padding-top: 20px;
+}
+
+.page-item.active .page-link {
+	z-index: 3;
+	color: #eee !important;
+	background-color: #1256fb !important;
+	border-color: #1256fb !important;
+}
+
+.page-link {
+	font-family: 'Montserrat', sans-serif;
+	color: #1256fb !important;
+}
+
+.page-item.disabled .page-link {
+	color: #333 !important;
+}
