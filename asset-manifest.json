@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/azur-games-test/static/css/main.9839344a.chunk.css",
-    "main.js": "/azur-games-test/static/js/main.67b769fd.chunk.js",
-    "main.js.map": "/azur-games-test/static/js/main.67b769fd.chunk.js.map",
+    "main.js": "/azur-games-test/static/js/main.68acd920.chunk.js",
+    "main.js.map": "/azur-games-test/static/js/main.68acd920.chunk.js.map",
     "runtime-main.js": "/azur-games-test/static/js/runtime-main.84d9e0b3.js",
     "runtime-main.js.map": "/azur-games-test/static/js/runtime-main.84d9e0b3.js.map",
     "static/css/2.e6c1e8c5.chunk.css": "/azur-games-test/static/css/2.e6c1e8c5.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.e6c1e8c5.chunk.css",
     "static/js/2.f783449c.chunk.js",
     "static/css/main.9839344a.chunk.css",
-    "static/js/main.67b769fd.chunk.js"
+    "static/js/main.68acd920.chunk.js"
   ]
 }
