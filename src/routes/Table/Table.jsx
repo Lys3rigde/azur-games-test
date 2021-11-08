@@ -89,10 +89,10 @@ export const Table = () => {
     }
     return data.filter(
       el => {
-        return el.firstName.toLowerCase().includes(searchValue)
-          || el.lastName.toLowerCase().includes(searchValue)
-          || el.email.toLowerCase().includes(searchValue)
-          || el.phone.toLowerCase().includes(searchValue);
+        return el.firstName.toLowerCase().includes(searchValue.toLowerCase())
+          || el.lastName.toLowerCase().includes(searchValue.toLowerCase())
+          || el.email.toLowerCase().includes(searchValue.toLowerCase())
+          || el.phone.toLowerCase().includes(searchValue.toLowerCase());
       }
     )
   }
